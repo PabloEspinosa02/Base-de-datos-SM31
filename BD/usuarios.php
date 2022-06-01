@@ -73,6 +73,7 @@
             <th scope="col">Nombre</th>
             <th scope="col">ApellidoPaterno</th>
             <th scope="col">ApellidoMaterno</th>
+            <th scope="col">Numero</th>
             <th scope="col">Correo</th>
             <th scope="col">Usuario</th>
             <th scope="col">Contraseña</th>
